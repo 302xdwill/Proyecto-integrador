@@ -1,0 +1,9 @@
+1: definir una clase que interactua con personas (CRUD_PERSONA)
+2:  leer buneas practicas para 
+3: clase CRUD_PERSONA: 
+3.1: tener una lista de personas inicialmente cundo se inicie la clase esta lista va estar vacia
+3.2: registrar personas a la lista (push)
+3.3: eliminar persona: por el dni
+3.4: buscar persona: buscar persona por el dni
+3.5: listar personas: dar un formato o diseño atractivo ( |)para recorer la lista que almacena personas 
+3.6: 
